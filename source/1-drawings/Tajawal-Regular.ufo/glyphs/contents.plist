@@ -930,6 +930,8 @@
   <string>uniF_E_F_B_.glif</string>
   <key>uniFEFC</key>
   <string>uniF_E_F_C_.glif</string>
+  <key>uni20C1</key>
+  <string>uni20C1.glif</string>
   <key>.notdef</key>
   <string>.notdef.glif</string>
 </dict>
