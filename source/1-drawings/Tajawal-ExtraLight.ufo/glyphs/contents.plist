@@ -674,6 +674,8 @@
   <string>afii00208.glif</string>
   <key>Euro</key>
   <string>E_uro.glif</string>
+  <key>uni20C1</key>
+  <string>uni20C1.glif</string>
   <key>Ohm</key>
   <string>O_hm.glif</string>
   <key>uni2206</key>
